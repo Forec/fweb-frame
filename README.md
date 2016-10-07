@@ -9,3 +9,7 @@ Your `g++` version should be higher than `4.9.3`, since `C++11` standard is need
 
 ## Update-Logs
 * 2016-09-29: Add this project. Basic `http` server can be run. Named `v0.1`.
+* 2016-10-6: Update license.
+
+# License
+All codes in thie repository are licensed under the terms you may find in the file named "LICENSE" in this directory.
